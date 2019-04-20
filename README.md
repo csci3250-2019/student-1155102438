@@ -13,11 +13,11 @@ I previously worked as a backend developer for a start up company, that's when I
 | Probability | 2/5 |D|
 | Ocean | 10/5 |B|
 
-## Fields I'm interested
+## I'm interested
 * Software engineering
 * Anthropology
 
-## Recent to-do list 
+## to-do list 
 - [ ] don't fail probability 
 - [X] finish all writings for 3251
 
