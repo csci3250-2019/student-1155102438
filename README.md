@@ -20,7 +20,3 @@ I previously worked as a backend developer for a start up company, that's when I
 ## to-do list 
 - [ ] don't fail probability 
 - [X] finish all writings for 3251
-
-# ScreenShots
-![pic1](screenshot1.png)
-![pic2](screenshot2.png)
