@@ -10,7 +10,7 @@ I am Tsui Nga Yin, *Taryn*, a computer science yr2 student.
 | :----------------------: | :-----: | :-----: |
 | Data Structure | 29/4 | C|
 | Probability | 2/5 |D|
-| Ocean | 105 |C|
+| Ocean | 10/5 |C|
 
 ## Fields I'm interested
 * Software engineering
